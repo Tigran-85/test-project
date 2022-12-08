@@ -6,7 +6,7 @@ Express Js sample example based CRUD app
 
 ## Description
 
-Used Prettier and Eslint to make code cleaner and also used express-validator library to validate requests
+Used Prettier to make code cleaner and also used express-validator library to validate requests
 
 For database used **MongoDB**.
 
