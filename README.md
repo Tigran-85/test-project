@@ -34,13 +34,13 @@ Starting point "localhost:4000"
 
 **CRUD**
 
- + Get all users /GET /api/v1/users
+ + Get all users - GET /api/v1/users
 
- + Get user by id /GET /api/v1/users/:id
+ + Get user by id - GET /api/v1/users/:id
 
- + Create user /POST /api/v1/users
+ + Create user - POST /api/v1/users
 
- + Update users fields /PATCH /api/v1/users/:id
+ + Update users fields - PATCH /api/v1/users/:id
 
- + Delete user /DELETE /api/v1/users/:id
+ + Delete user - DELETE /api/v1/users/:id
 
